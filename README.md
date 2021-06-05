@@ -1,5 +1,5 @@
 # Object-Relational Mapping (ORM): E-Commerce Back End
-![HERE](Assets/img/shopping.png)
+![Shopping Bag](Assets/img/shopping.png)
 <!-- image credit: this image is from icons8-->
 
 ## Objective
@@ -16,12 +16,10 @@ The objective of this e-commerce back end solution is to modify starter code and
   ### Link to Application Repository on GitHub 
   [E-Commerce](https://github.com/NDaruwalla/e-commerce-backend)
 
-  ### Video Demo via iframe
-  <!-- blank line -->
-  <figure class="video_container">
-    <iframe src="https://drive.google.com/file/d/1SiPQDJJVS8qZ6ryru0SVEr0LGpS3OSbS/preview" frameborder="0" allowfullscreen="true"> </iframe>
-  </figure>
-  <!-- blank line -->
+  ### Screen Captures
+ ![E-Commerce MySQL](Assets/img/mysql.jpg)
+
+ ![E-Commerce Insomnia](Assets/img/insomnia.jpg)
 
   ## Table of Contents
   - [Objective](#description)
