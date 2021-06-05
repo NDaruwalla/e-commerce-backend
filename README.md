@@ -1,3 +1,10 @@
+  ### Video Demo via Youtube
+  <!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/jcGFQb_2eVE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 # Object-Relational Mapping (ORM): E-Commerce Back End
 ![HERE](Assets/img/shopping.png)
 <!-- image credit: this image is from icons8-->
@@ -22,13 +29,6 @@ The objective of this e-commerce back end solution is to modify starter code and
     <iframe src="https://drive.google.com/file/d/1SiPQDJJVS8qZ6ryru0SVEr0LGpS3OSbS/preview" frameborder="0" allowfullscreen="true"> </iframe>
   </figure>
   <!-- blank line -->
-
-  ### Video Demo via Youtube
-  <!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/jcGFQb_2eVE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
 
   ## Table of Contents
   - [Objective](#description)
