@@ -1,9 +1,3 @@
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/jcGFQb_2eVE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
 # Object-Relational Mapping (ORM): E-Commerce Back End
 ![HERE](Assets/img/shopping.png)
 <!-- image credit: this image is from icons8-->
