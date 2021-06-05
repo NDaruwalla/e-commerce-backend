@@ -23,6 +23,13 @@ The objective of this e-commerce back end solution is to modify starter code and
   </figure>
   <!-- blank line -->
 
+  ### Video Demo via Youtube
+  <!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/jcGFQb_2eVE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
   ## Table of Contents
   - [Objective](#description)
   - [User Story/Stories](#story)
