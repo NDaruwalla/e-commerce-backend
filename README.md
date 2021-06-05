@@ -1,22 +1,26 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# Object-Relational Mapping (ORM): E-Commerce Back End
 ![HERE](Assets/img/shopping.png)
 <!-- image credit: this image is from icons8-->
 
 ## Objective
 The objective of this e-commerce back end solution is to modify starter code and configure a working Express.js API to use Sequelize to interact with a MySQL database. The goal is to understand the fundamental architecture of internet retail platforms like Shopify and WooCommerce which provide a suite of services to businesses of all sizes. 
 
-### Video Demonstration of Functionality 
+### YouTube Video Demonstration of Functionality
  Click the link below to view a walkthrough video that demonstrates the e-commerce functionality and all of the acceptance criteria. 
 
-  [E-Commerce](https://here.com)
-  
+  [E-Commerce - MySql Shell and Git Bash ](https://youtu.be/jcGFQb_2eVE)
 
+  [E-Commerce - Insomnia Demo](https://youtu.be/SoAVIbCq22M)
+
+  
   ### Link to Application Repository on GitHub 
   [E-Commerce](https://github.com/NDaruwalla/e-commerce-backend)
 
-  ### Screen Capture
-  Page
-  ![E-Commerce](Assets/img/e-commerce.jpg)
+  ### Video Demo via iframe
+
+  <iframe src="https://drive.google.com/file/d/1gWPMrFTnQCVNpoC29FgInLOquzzfhz3i/preview" width="640" height="480"></iframe>
+
+  <iframe src="https://drive.google.com/file/d/1SiPQDJJVS8qZ6ryru0SVEr0LGpS3OSbS/preview" width="640" height="480"></iframe>
 
 
   ## Table of Contents
@@ -25,7 +29,6 @@ The objective of this e-commerce back end solution is to modify starter code and
   - [Acceptance Criteria](#criteria)
   - [Tools](#tools)
   - [Installation](#installation)
-  - [Use](#use)
   - [License](#license)
   - [Contributors](#contributors)
   - [References](#references)
@@ -68,9 +71,6 @@ THEN I am able to successfully create, update, and delete data in my database
   6. [npm nodmon](https://www.npmjs.com/package/nodemon) automatically restarts the node application when file changes in the directory are detected
 
 
-  ## Use
-  here
-
   ## License
   MIT
   
@@ -82,10 +82,9 @@ THEN I am able to successfully create, update, and delete data in my database
   ## References
   The following references were used to create this application: 
  
-  * [here](https://www.here.com/)
-
-  * other websites as noted in the code comments
-
+  * [NPM](https://docs.npmjs.com/about-npm)
+  * [Insomnia](https://support.insomnia.rest/category/152-using-insomnia)
+  
 
   ## Tests
   No tests are included at this time.
