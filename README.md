@@ -21,10 +21,6 @@ The objective of this e-commerce back end solution is to modify starter code and
   <figure class="video_container">
     <iframe src="https://drive.google.com/file/d/1SiPQDJJVS8qZ6ryru0SVEr0LGpS3OSbS/preview" frameborder="0" allowfullscreen="true"> </iframe>
   </figure>
-
-  <figure class="video_container">
-    <iframe src="https://drive.google.com/file/d/1gWPMrFTnQCVNpoC29FgInLOquzzfhz3i/preview" frameborder="0" allowfullscreen="true"> </iframe>
-  </figure>
   <!-- blank line -->
 
   ## Table of Contents
