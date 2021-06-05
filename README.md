@@ -29,7 +29,7 @@ The objective of this e-commerce back end solution is to modify starter code and
   <!-- blank line -->
 
   ### Video test
-  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg" frameborder="0" allowfullscreen="true"> </iframe>
 
 
 
